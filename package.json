@@ -19,22 +19,3 @@
     "development": ["last 1 chrome version"]
   }
 }
-```
-
-**4. Salvar (Commit):**
-- Role até o fim da página
-- Clique no botão verde **"Commit changes"**
-- Na janela que abre, clique **"Commit changes"** de novo
-
-✅ **Primeiro arquivo criado!**
-
----
-
-### **ARQUIVO 2: public/index.html**
-
-**1. Criar arquivo:**
-- Clique **"Add file"** → **"Create new file"** de novo
-
-**2. Nome do arquivo** (COM PASTA!):
-```
-public/index.html
